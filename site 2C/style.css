@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(42, 165, 147);
+}
+.primeiraparte{
+    background-color: rgb(66, 245, 251);
+}
+.fotodaturma{
+    width: 500px;
+}
+
+.foto{
+    width: 150px;
+    padding: 20px;
+    margin: 30px;
+}
+
+
+.primeiraparte{
+    text-align: center;
+}
+
+
+.todosestudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+footer{
+    text-align: center;
+    }
+    
